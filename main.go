@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/CarlosReyes1/gouuid"
+	"github.com/nu7hatch/gouuid"
 	"log"
 	"net/http"
 	"os"
